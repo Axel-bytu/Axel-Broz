@@ -4,7 +4,7 @@
 
 Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 
-Skills: PAYTHO / HTML / JS / C++ / CSS / PAWN
+Skills: PAYTHON / HTML / JS / C++ / CSS / PAWN
 
 - 🔭 I’m currently working on [TNL Hostinger](https://tnl.runhosting.net) & [VideFikri API's](https://videfikri.com/api/)
 - 🌱 I’m currently learning Go-lang, JavaScript 
