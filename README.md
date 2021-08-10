@@ -4,9 +4,9 @@
 
 Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 
-Skills: PAYTHON / HTML / JS / C++ / CSS / PAWN
+Skills: PYTHON / HTML / JS / C++ / CSS /SCSS
 
-- 🔭 I’m currently working on [API BROZ](https://api.Broz.herokuapp.com)
+- 🔭 I’m currently working on [API BROZ](https://api.broz.herokuapp.com)
 - 🌱 I’m currently learning Go-lang, JavaScript 
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing 
